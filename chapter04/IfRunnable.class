@@ -1,0 +1,10 @@
+item>
+        <item name="listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingStart">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingEnd">@dimen/abc_list_item_padding_horizontal_material</item>
+
+        
+        <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
+        <item name="andro
